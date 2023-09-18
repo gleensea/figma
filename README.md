@@ -27,4 +27,8 @@
 피그마는 매우 강력하고 유용한 디자인 도구이며, 기본적인 사용법을 익힌 후에는 더 고급 기능도 활용할 수 있습니다. <br>디자인 커뮤니티에서 많은 자료와 자습서를 찾아볼 수 있어, 더 많은 기능과 팁을 습득하는 데 도움이 됩니다.
 
 ### 생성 후기
-360 * 800 사이즈의 모바일 버전으로 가볍게 로그인, 회원가입, 비밀번호 찾기 의 UI와 연동만을 구성해 보았습니다. 이미지 파일 처럼 모바일과 pc 웹의 해상도가 맞지않아 구현의 차질이 있습니다.
+360 * 800 사이즈의 모바일 버전으로 가볍게 로그인, 회원가입, 비밀번호 찾기 의 UI와 연동만을 구성해 보았습니다. 이미지 파일 처럼 모바일과 pc 웹의 해상도가 맞지않아 구현의 차질이 있습니다.<br>
+![create account](https://github.com/gleensea/figma/assets/112832681/aa63c7aa-2ef1-47a4-b438-e8570b54d50e)<br>
+![Reset Password](https://github.com/gleensea/figma/assets/112832681/0f1bebaa-cf30-43e9-9b84-0b1469b2a1a5)<br>
+![subpage](https://github.com/gleensea/figma/assets/112832681/9c037cc3-845f-4326-be17-b9f577d5e971)<br>
+![Fome input](https://github.com/gleensea/figma/assets/112832681/a2d27e21-5f56-4f29-828f-c964a0d87eb0)<br>
