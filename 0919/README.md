@@ -6,7 +6,7 @@
 ## 추천 사이트
 1. [w3cschool](https://www.w3schools.com/)
 2. [1분코딩](https://studiomeal.com/archives/category/tutorial)
-3. [mozilla])(https://developer.mozilla.org/ko/docs/Learn/CSS)
+3. [mozilla](https://developer.mozilla.org/ko/docs/Learn/CSS)
 
 4. [프로그래머스](https://programmers.co.kr/)
 5. [백준](https://www.acmicpc.net/)
